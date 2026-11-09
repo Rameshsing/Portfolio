@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172554"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<rect x="150" y="150" width="900" height="400" rx="28" fill="#0b1220" opacity=".75"/>
+<path d="M220 470L380 360l130 70 170-180 160 100 110-130" fill="none" stroke="#fff" stroke-width="12"/>
+<circle cx="380" cy="360" r="12" fill="#fff"/><circle cx="680" cy="250" r="12" fill="#fff"/><circle cx="840" cy="350" r="12" fill="#fff"/>
+<text x="600" y="205" text-anchor="middle" fill="#fff" font-family="Arial" font-size="38" font-weight="700">PROJECT PREVIEW</text>
+</svg>
